@@ -1,0 +1,9 @@
+﻿order_reference,order_status,type,parent_item_sku,status,sku,name,name_localized,unit_price,unit_cost,quantity,total_price,total_cost,discount_amount,discount_name,tax_exclusive_unit_price,tax_exclusive_total_price,tax_exclusive_discount_amount,total_taxes,business_date
+4086458,Done,Product,,Done,1111013,Drip Coffee,قهوة مقطرة,7,0,1,7,0,0,-,6.08696,6.08696,0,0.91304,2022/01/01
+4086458,Done,Product,,Void,1111013,Drip Coffee,قهوة مقطرة,7,0,1,7,0,0,-,6.08696,6.08696,0,0,2022/01/01
+4086458,Done,Product,,Void,1111013,Drip Coffee,قهوة مقطرة,7,0,1,7,0,0,-,6.08696,6.08696,0,0,2022/01/01
+4086458,Done,Modifier Option,1111016,Done,1113011,Full Fat Milk,حليب كامل الدسم,0,0,1,0,0,-,-,0,0,0,0,2021/12/31
+4086458,Done,Product,,Done,1111008,Autumn Latte - Regular,أوتوم لاتيه - صغير,13,0.524,1,13,0.5244,0,-,11.30435,11.30435,0,1.69565,2021/12/31
+4086603,Done,Product,,Done,1111013,Drip Coffee,قهوة مقطرة,7,0,1,7,0,0,-,6.08696,6.08696,0,0.91304,2022/01/01
+4086603,Done,Product,,Void,1111013,Drip Coffee,قهوة مقطرة,7,0,1,7,0,0,-,6.08696,6.08696,0,0,2022/01/01
+4086604,Done,Product,,Void,1111013,Drip Coffee,قهوة مقطرة,7,0,1,7,0,0,-,6.08696,6.08696,0,0,2022/01/01
